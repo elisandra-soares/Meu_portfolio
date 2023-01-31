@@ -1,0 +1,78 @@
+
+body {
+    background-color: rgb(192, 238, 250);
+    color: rgb(53, 9, 248);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    
+}
+a {
+    color: rgb(1, 12, 4);
+    text-decoration: none;
+}
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 150%;
+    border: 5px solid rgb(6, 118, 247);
+}
+.center {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(7, 1, 36);
+    text-align: center;
+    background-color: rgb(174, 207, 236);
+    border-radius: 100px;
+}
+
+h1 {
+    color: rgb(6, 118, 247);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(17, 17, 20);
+}
+
+.grau {
+    color: rgb(44, 124, 245);
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+footer a {
+   margin: 20px;
+   text-align: center;
+}
+footer p {
+    margin: 2px;
+    color: rgb(10, 27, 27);
+}
+
+.container {
+    padding: 0px 50px;
+}
+nav a:hover {
+    color: rgb(247, 248, 248);
+}
+section p {
+    color: rgb(4, 4, 20);
+}
+
+body.nomes{
+    color: rgb(2, 1, 20);
+}
